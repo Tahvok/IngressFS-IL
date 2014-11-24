@@ -29,9 +29,10 @@
 <div class="row">
 <div class="col-md-12">
 <p class="content">
-Control your immediate surroundings, Discover interesting places
-around your neighborhood and everything in one challenging.game.
-Meet and collaborate with players from all around the globe.<br />
+Control your immediate surroundings, Discover interesting<br/>
+places around your neighborhood and everything in one<br/>
+challenging game. Meet and collaborate with players from<br/>
+all around the globe.<br/>
 Play. Lead. Influence.
 </p>
 </div>
