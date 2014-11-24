@@ -18,12 +18,12 @@
 </head>
 
 <body>
-div class="site-wrapper">
+<div class="site-wrapper">
   <div class="site-wrapper-inner">
-      <div class="cover-container">
-            <div class="masthead clearfix">
-                    <div class="inner">
-                              <h3 class="masthead-brand">Cover</h3>
+    <div class="cover-container">
+      <div class="masthead clearfix">
+        <div class="inner">
+          <h3 class="masthead-brand">Cover</h3>
 
           <ul class="nav masthead-nav">
             <li class="active">
@@ -49,9 +49,9 @@ div class="site-wrapper">
         beautiful home pages. Download, edit the text, and add your own
         fullscreen background color and photo to make it your own.</p>
 
-                <p class="lead"><a class="btn btn-lg btn-info" href="#">Learn
-                        more</a></p>
-                              </div>
+        <p class="lead"><a class="btn btn-lg btn-info" href="#">Learn
+        more</a></p>
+      </div>
 
       <div class="mastfoot">
         <div class="inner">
@@ -73,6 +73,7 @@ div class="site-wrapper">
         </div>
       </div>
     </div>
+</div>
 </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
