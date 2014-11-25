@@ -3,6 +3,11 @@ font-family: 'ocraext';
 src: url('../fonts/ocraext.woff') format('woff'), url('../fonts/ocraext.ttf') format('truetype');
 }
 
+@font-face {
+font-family: 'mriamc';
+src: url('../fonts/mriamc.woff') format('woff'), url('../fonts/mriamc.ttf') format('truetype');
+}
+
 body { 
   background: url('../images/FS_backround.png') no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -15,6 +20,7 @@ body {
 
 body.hebrew{
 	direction: rtl;
+	font-family: 'mriamc';
 }
 
 
