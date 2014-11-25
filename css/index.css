@@ -9,53 +9,59 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+	color:#feffb8;
+	font-family: 'ocraext';
 }
 
-p{
-color:#feffb8;
+body.hebrew{
+	direction: rtl;
 }
+
 
 .container-fluid {
 max-width:1200px;
 }
 
 .lead {
-font-family: 'ocraext';
+
 font-size: 4em;
 text-align:center;
 }
 
 .content {
-font-family: 'ocraext';
 font-size: 2em;
 max-width:980px;
-margin:0 auto;
+margin:0 auto 30px auto;
 }
 
 .time {
-font-family: 'ocraext';
 font-size: 6em;
 text-align:center;
-padding-bottom:30px;
 }
 
 .conclusion {
-font-family: 'ocraext';
 font-size: 3em;
 text-align:center;
 margin-top: 20px;
 }
 
 .center{
-max-width: 768px; 
-margin: 40px auto;
+text-align:center;
 }
-
+.center img {
+	max-width:100%;
+}
 .text-center{
 text-align:center;
 margin:0 auto;
 }
-
+.languages a{
+		display:inline-block;
+		line-height:40px;
+}
+.app-button img{
+	margin:0 10px;
+}
 @media screen and (max-width:480px){
 	.lead {
 		font-size:2.5em;
@@ -66,11 +72,25 @@ margin:0 auto;
 		font-size:1.5em;
 	}
 	
-	.center img{
-		width: 200px; 
+	.center {
+		margin-top:30px;
 	}
 	
 	.time {
-	3em;	
+		margin-top:20px;
+		font-size:2.5em;
 	}
+.app-button img{
+	border:none;
+	margin:10px auto;
+	display:block;
+}
+.languages.pull-right{
+	float:none !important;
+	text-align:center;
+}
+
+.conclusion {
+	font-size: 1.7em;
+}
 }

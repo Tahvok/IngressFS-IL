@@ -5,7 +5,7 @@
                 <title></title>
 
                 <!-- Bootstrap -->
-                <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+                <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
                 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
                 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -14,14 +14,14 @@
                         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
                         <![endif]-->
                         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-                        <link rel="stylesheet" href="css/index.css">
+                        <link rel="stylesheet" href="../css/index.css">
         </head>
 
-        <body>
+        <body class="hebrew">
                 <div class="container-fluid">
                         <div class="row">
                                 <div class="col-md-12">
-                                <div class="languages pull-right"><a href="">he</a></div>
+                                <div class="languages pull-left"><a href="">he</a></div>
                                         <p class="lead">
                                         It's Time To Change The Future!
                                         </p>
@@ -38,7 +38,7 @@
                         <div class="row">
                                 <div class="col-md-12 clearfix">
                                         <div class="center clearfix">
-                                            <a href="https://plus.google.com/events/cu13gr76n31jp481ea95c00ak70"><img src="images/FS_clear4.png" /></a>
+                                            <a href="https://plus.google.com/events/cu13gr76n31jp481ea95c00ak70"><img src="../images/FS_clear4.png" /></a>
                                         </div>
                                 </div>
                         </div>
@@ -49,8 +49,8 @@
                         </div>
                         <div class="row">
                                 <div class="col-md-12 center app-button">
-                                        <a href="https://play.google.com/store/apps/details?id=com.nianticproject.ingress"><img src="images/FS_playstore.png" /></a>
-                                        <a href="https://itunes.apple.com/us/app/ingress/id576505181"><img src="images/FS_appstore.png" /></a>
+                                        <a href="https://play.google.com/store/apps/details?id=com.nianticproject.ingress"><img src="../images/FS_playstore.png" /></a>
+                                        <a href="https://itunes.apple.com/us/app/ingress/id576505181"><img src="../images/FS_appstore.png" /></a>
                                 </div>
                         </div>
                         <div class="row">
