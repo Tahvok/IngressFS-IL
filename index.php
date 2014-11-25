@@ -21,7 +21,7 @@
                 <div class="container-fluid">
                         <div class="row">
                                 <div class="col-md-12">
-                                <div class="languages pull-right"><a href="">he</a></div>
+                                <div class="languages pull-right"><a href="he/index.php">he</a></div>
                                         <p class="lead">
                                         It's Time To Change The Future!
                                         </p>
