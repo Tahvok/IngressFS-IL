@@ -17,22 +17,60 @@ color:#feffb8;
 
 .lead {
 font-family: 'ocraext';
-font-size: 54px;
+font-size: 4em;
+text-align:center;
 }
 
 .content {
 font-family: 'ocraext';
-font-size: 30px;
+font-size: 2em;
+max-width:980px;
+margin:0 auto;
 }
 
-.relate {
- position: relative; 
+.center{
+	max-width: 630px; 
+	margin: 40px auto;
 }
-
 .israel {
-position: absolute;
-bottom: 0;
-left: 0;
-font-family: 'ocraext';
+position: relative;
+top: 140px;
+font-family: "ocraext";
 font-size: 54px;
+left: 30px;
+}
+.text-center{
+	text-align:center;
+	margin:0 auto;
+}
+.bottom-row{
+	position:fixed;
+	bottom:10px;
+	width:100%;
+	color:#fff;
+}
+@media screen and (max-width:480px){
+	.lead {
+		font-size:2.5em;
+		line-height:normal;
+	}
+	.content{
+		font-size:1.5em;
+	}
+		.center img{
+	width: 220px; 
+}
+.israel {
+top: 55px;
+font-size:2.5em;
+}
+.bottom-row{
+	position:relative;
+}
+.bottom-row div{
+	text-align:center;
+	margin:0 auto;
+	float:none !important;
+	
+}
 }
