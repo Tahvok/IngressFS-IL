@@ -1,5 +1,5 @@
 @font-face {
-        font-family: 'ocraext';
+font-family: 'ocraext';
 src: url('../fonts/ocraext.woff') format('woff'), url('../fonts/ocraext.ttf') format('truetype');
 }
 
@@ -15,6 +15,10 @@ p{
 color:#feffb8;
 }
 
+.container-fluid {
+max-width:1200px;
+}
+
 .lead {
 font-family: 'ocraext';
 font-size: 4em;
@@ -28,49 +32,45 @@ max-width:980px;
 margin:0 auto;
 }
 
+.time {
+font-family: 'ocraext';
+font-size: 6em;
+text-align:center;
+padding-bottom:30px;
+}
+
+.conclusion {
+font-family: 'ocraext';
+font-size: 3em;
+text-align:center;
+margin-top: 20px;
+}
+
 .center{
-	max-width: 630px; 
-	margin: 40px auto;
+max-width: 768px; 
+margin: 40px auto;
 }
-.israel {
-position: relative;
-top: 140px;
-font-family: "ocraext";
-font-size: 54px;
-left: 30px;
-}
+
 .text-center{
-	text-align:center;
-	margin:0 auto;
+text-align:center;
+margin:0 auto;
 }
-.bottom-row{
-	position:fixed;
-	bottom:10px;
-	width:100%;
-	color:#fff;
-}
+
 @media screen and (max-width:480px){
 	.lead {
 		font-size:2.5em;
 		line-height:normal;
 	}
+	
 	.content{
 		font-size:1.5em;
 	}
-		.center img{
-	width: 200px; 
-}
-.israel {
-top: 50px;
-font-size:2.5em;
-}
-.bottom-row{
-	position:relative;
-}
-.bottom-row div{
-	text-align:center;
-	margin:0 auto;
-	float:none !important;
 	
-}
+	.center img{
+		width: 200px; 
+	}
+	
+	.time {
+	3em;	
+	}
 }
