@@ -21,7 +21,7 @@
                 <div class="container-fluid">
                         <div class="row">
                                 <div class="col-md-12">
-                                <div class="languages pull-left"><a href="../index.php">en</a></div>
+                                <div class="languages pull-left" style="direction:ltr;"><a href="../index.php"><img src="../images/USA.png" />English</a></div>
                                         <p class="lead">
                                         זה הזמן לשנות את העתיד!
                                         </p>
