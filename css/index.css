@@ -41,6 +41,7 @@ margin:0 auto 30px auto;
 }
 
 .time {
+direction: ltr;
 font-size: 6em;
 text-align:center;
 }
