@@ -87,17 +87,21 @@ margin:0 auto;
 		margin-top:20px;
 		font-size:2.5em;
 	}
-.app-button img{
-	border:none;
-	margin:10px auto;
-	display:block;
-}
-.languages.pull-right{
-	float:none !important;
-	text-align:center;
-}
+	.app-button img{
+		border:none;
+		margin:10px auto;
+		display:block;
+	}
+	.languages.pull-left{
+		float:none !important;
+		text-align:center;
+	}
+	.languages.pull-right{
+		float:none !important;
+		text-align:center;
+	}
 
-.conclusion {
-	font-size: 1.7em;
-}
+	.conclusion {
+		font-size: 1.7em;
+	}
 }
