@@ -38,13 +38,13 @@
                         <div class="row">
                                 <div class="col-md-12 clearfix">
                                         <div class="center clearfix">
-                                            <a href="https://plus.google.com/events/cu13gr76n31jp481ea95c00ak70"><img src="../images/FS_clear4.png" /></a>
+                                            <a href="https://plus.google.com/events/cu13gr76n31jp481ea95c00ak70"><img src="../images/FS_clear5.png" /></a>
                                         </div>
                                 </div>
                         </div>
                         <div class="row">
                                 <div class="col-md-12">
-                                        <p class="time">6 | DEC | 2014</p>
+                                        <p class="time">2014 | 6 | DEC</p>
                                 </div>
                         </div>
                         <div class="row">
