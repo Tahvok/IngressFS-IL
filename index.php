@@ -44,7 +44,7 @@
                         </div>
                         <div class="row">
                                 <div class="col-md-12">
-                                        <p class="time">1 | MAR | 2015</p>
+                                        <p class="time">1 | MAY | 2015</p>
                                 </div>
                         </div>
                         <div class="row">
