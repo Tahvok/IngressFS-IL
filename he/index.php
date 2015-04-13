@@ -38,7 +38,7 @@
                         <div class="row">
                                 <div class="col-md-12 clearfix">
                                         <div class="center clearfix">
-                                            <a href="https://plus.google.com/events/ch0p6e7gq0ga07ho0s236us6g5k"><img src="../images/FS_clear5.png" /></a>
+                                            <a href="https://plus.google.com/u/0/events/csnh5deuvj1u64a630gk54uce70"><img src="../images/FS_clear5.png" /></a>
                                         </div>
                                 </div>
                         </div>
